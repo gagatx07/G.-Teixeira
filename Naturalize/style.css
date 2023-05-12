@@ -1,0 +1,18 @@
+a{ 
+    padding: 0 70px;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    text-decoration: none;
+    background-color: darkgreen;
+    border-radius: 10px;
+}
+
+div img {
+    width: 300px;
+    height: auto;
+    padding: 0 50px;
+}
+
+body {
+    background-color: antiquewhite;
+}
